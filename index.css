@@ -638,7 +638,7 @@ form {
 }
 
 /* ignore 💀 */
-/* *{ 
+/* *{
   outline: 1px solid red;
  } */
 
@@ -1003,7 +1003,7 @@ button.btn.primary:active {
   -ms-transform: scale(2);
   transform: scale(2); */
 }
-/* 
+/*
 #icon-wrapper {
   margin-bottom: 75px;
 }
@@ -1139,4 +1139,9 @@ body.sanfrancisco #ir-reddit-suggestion-icon {
 
 body.sanfrancisco #ir-reddit-suggestion-text {
   padding-top: 20px
+}
+
+
+p {
+    margin-block: 0.5rem!important;
 }
